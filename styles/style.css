@@ -276,11 +276,11 @@
   line-height: 24px;
 }
 
-.about__text-first {
+.about__text-lead_paragraph {
   width: 688px;
 }
 
-.about__text-second {
+.about__text-paragraph {
   width: 693px;
   margin-top: 24px;
 }
